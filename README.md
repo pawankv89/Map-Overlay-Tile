@@ -1,8 +1,8 @@
 
-MAPOverlayTile
+Map Overlay Tile
 =========
 
-## MAPOverlayTile add diffrent type of Overlay on MAPView
+## Map Overlay Tile add diffrent type of Overlay on MAPView
 ------------
  Added Some screens here.
  
